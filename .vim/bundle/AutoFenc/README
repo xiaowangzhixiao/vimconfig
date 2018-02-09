@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2721
+
+A Vim plugin that tries to automatically detect and set file encoding when opening a file. See https://github.com/s3rvac/AutoFenc for more details and configuration options.
+
